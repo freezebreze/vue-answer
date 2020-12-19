@@ -1,5 +1,5 @@
-# myTable
-使用Vue全家桶+elment-ui写的一个demo，以后会慢慢更新慢慢改进。喜欢的给个星星
+# vue-answenr3
+
 ## Project setup
 ```
 npm install
@@ -19,3 +19,6 @@ npm run build
 ```
 npm run lint
 ```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
