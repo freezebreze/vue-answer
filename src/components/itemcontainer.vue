@@ -120,6 +120,7 @@ export default {
 		padding: 5px;
 		border: 1px solid #c3d4be;
 		border-radius: 50%;
+		font-size: 18px;
 		text-align: center;
 		margin-right: 10px;
 		margin-top: 10px;
